@@ -66,7 +66,7 @@ The dataset contains **bank customer data**, including demographics, account det
 - Real-time predictions via Streamlit  
 - Identified high-risk customers  
 
-![Churn Results](videos/churn.jpeg)
+<img src="videos/churn.jpeg" width="500" alt="Churn Results">
 
 ---
 
