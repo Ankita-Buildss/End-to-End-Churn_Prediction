@@ -8,10 +8,11 @@
 2. [Objective](#objective)  
 3. [Dataset & Use Case](#dataset--use-case)   
 4. [Methodology](#methodology)  
-5. [Tech Stack](#tech-stack)   
-6. [Challenges](#challenges)  
-7. [Future Scope](#future-scope)  
-8. [Demo Video](#demo-video)  
+5. [Tech Stack](#tech-stack)
+6. [Results](#results)     
+7. [Challenges](#challenges)  
+8. [Future Scope](#future-scope)  
+9. [Demo Video](#demo-video)  
 
 ---
 
