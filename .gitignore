@@ -1,0 +1,39 @@
+churn_env# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+churn_env/
+venv/
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python package files
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+
+# Model / data files (large or sensitive)
+*.h5
+*.pkl
+*.csv
+
+# Logs
+*.log
+logs
+
+# Streamlit cache
+.streamlit/
+
+# Other sensitive files
+secrets.toml
