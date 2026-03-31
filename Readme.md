@@ -88,10 +88,7 @@ The dataset contains **bank customer data**, including demographics, account det
 
 ## Demo Video
 
-<video width="700" controls>
-  <source src="videos/churn_demo.mov" type="video/quicktime">
-  Your browser does not support the video tag.
-</video>
+![Churn Demo](videos/churn_demo.gif)
 
 ---
 
