@@ -6,15 +6,12 @@
 ## Table of Contents
 1. [Business Impact](#business-impact)  
 2. [Objective](#objective)  
-3. [Dataset & Use Case](#dataset--use-case)  
-4. [Architecture](#architecture)  
-5. [Methodology](#methodology)  
-6. [Tech Stack](#tech-stack)  
-7. [Results](#results)  
-8. [Model Performance](#model-performance)  
-9. [Challenges](#challenges)  
-10. [Future Scope](#future-scope)  
-11. [Demo Video](#demo-video)  
+3. [Dataset & Use Case](#dataset--use-case)   
+4. [Methodology](#methodology)  
+5. [Tech Stack](#tech-stack)   
+6. [Challenges](#challenges)  
+7. [Future Scope](#future-scope)  
+8. [Demo Video](#demo-video)  
 
 ---
 
